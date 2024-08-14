@@ -56,6 +56,10 @@ The objective of this project is to implement a basic authentication system with
     }
     ```
   - **Response**: JSON object with a success message.
+  - **Register.html page**
+  - ![Screenshot 2024-08-14 162732](https://github.com/user-attachments/assets/89fb11e8-46f2-4896-bbcf-f190f1dc00f5)
+  - ![Screenshot 2024-08-14 162756](https://github.com/user-attachments/assets/d5442010-154d-468c-bcd3-c7db80c38116)
+
 
 - **POST /api/auth/login**
   - **Description**: Authenticates a user and returns a JWT token.
@@ -72,6 +76,12 @@ The objective of this project is to implement a basic authentication system with
       "token": "your-jwt-token"
     }
     ```
+ - **login.html**
+ - ![Screenshot 2024-08-14 162838](https://github.com/user-attachments/assets/a4e227c2-f43f-49b5-b73f-2c771c8f5f6d)
+ - ![Screenshot 2024-08-14 162845](https://github.com/user-attachments/assets/0a74b86a-468b-4dd4-8889-2a08006f2616)
+- **Mongodb compass output**
+- The user information is stored on the mongodb database.
+-  ![Screenshot 2024-08-14 162914](https://github.com/user-attachments/assets/c8ef3cbd-6bb7-49de-b349-06e947e30606)
 
 ## *Project Structure*
 
